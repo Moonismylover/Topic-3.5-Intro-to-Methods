@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
+            Console.Title = "Intro to Methods";
             Console.WriteLine("Hello, World!");
+            Console.Wirte
         }
     }
 }
